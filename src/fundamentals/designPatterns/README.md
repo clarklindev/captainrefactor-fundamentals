@@ -7,9 +7,13 @@ there are around 23 design patterns
   - strategy
   - template
 
+  OTHER: revealingModule
+
 # Creational
   - factory 
   - singleton
+
+  OTHER: Module Pattern 
 
 # Structural
   - adapter
